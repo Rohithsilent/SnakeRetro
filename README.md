@@ -23,6 +23,12 @@ A corrupted terminal interface merging classic entity consumption protocols (SNA
 * **`CHROMATIC_ABERRATION`**: CSS-driven glitch animations and RGB-split text rendering (Cyan/Magenta).
 * **`DATA_METRICS`**: Real-time peak efficiency (High Score) tracking.
 
+## [ VISUAL_TELEMETRY ]
+> **CAPTURING_SCREEN_STATE...**
+
+![SYS.OP.SNAKE Main Interface](./screenshot.png)
+*CAPTION: PRIMARY_EXECUTION_ENVIRONMENT*
+
 ## [ INPUT_VECTORS ]
 * `[ ^ ] [ v ] [ < ] [ > ]` : TRAVERSE_GRID
 * `[ SPACE ]`               : HALT_EXECUTION / RESUME
