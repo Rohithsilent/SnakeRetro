@@ -26,7 +26,7 @@ A corrupted terminal interface merging classic entity consumption protocols (SNA
 ## [ VISUAL_TELEMETRY ]
 > **CAPTURING_SCREEN_STATE...**
 
-![SYS.OP.SNAKE Main Interface](/Screenshot 2026-03-26 111423.png)
+![SYS.OP.SNAKE Main Interface](/screenshot.png)
 *CAPTION: PRIMARY_EXECUTION_ENVIRONMENT*
 
 ## [ INPUT_VECTORS ]
