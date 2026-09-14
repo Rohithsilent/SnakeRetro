@@ -14,7 +14,7 @@
 ```
 
 ## [ SYSTEM_OVERVIEW ]
-A corrupted terminal interface merging classic entity consumption protocols (SNAKE) with a neural-linked auditory subsystem (MUSIC PLAYER). Designed with a strict Glitch Art / Retro-Futurist aesthetic. 
+A corrupted terminal interface merging classic entity consumption protocols (SNAKE) with a neural-linked auditory subsystem (MUSIC PLAYER). 
 
 ## [ CORE_FEATURES ]
 * **`EXECUTE_SNAKE.EXE`**: Fully functional grid-traversal entity consumption simulation.
